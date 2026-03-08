@@ -1,0 +1,22 @@
+[
+    {
+        "audio_file": "audio1.wav",
+        "original_text": "what is the capital of japan",
+        "transcript": "which is the capital of japan.",
+        "wer": 0.3333333333333333,
+        "semantic_similarity": 0.9879305362701416,
+        "llm_similarity": 0.5,
+        "hallucination": 0,
+        "latency": 8.63118314743042
+    },
+    {
+        "audio_file": "audio2.wav",
+        "original_text": "who discovered gravity",
+        "transcript": "who discovered gravity?",
+        "wer": 0.3333333333333333,
+        "semantic_similarity": 0.9619141817092896,
+        "llm_similarity": 0.5,
+        "hallucination": 0,
+        "latency": 15.960628747940063
+    }
+]
